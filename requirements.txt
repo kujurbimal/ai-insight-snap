@@ -1,7 +1,0 @@
-streamlit
-fastapi
-uvicorn
-pillow
-pytesseract
-pandas
-requests
